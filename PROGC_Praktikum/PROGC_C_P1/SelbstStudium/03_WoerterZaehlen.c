@@ -37,6 +37,5 @@ int main (void) {
     (void)printf("Type your text and after pressing return it will be counted.\n");
     countSpace();
 //prints out the charcount
-    (void)printf(" -->Anzahl Zeichen im Satz ohne Leerzeichen: %d \n",anzahlZeichen);
-    (void)printf(" -->Anzahl Wörter im Satz: %d \n",anzahlWörter);
+    (void)printf("+%d Wörter, %d Zeichen \n",anzahlWörter,anzahlZeichen);
 }
