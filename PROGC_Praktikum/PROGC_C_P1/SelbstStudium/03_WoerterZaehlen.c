@@ -18,7 +18,7 @@ void countSpace () {
     while ((c = getchar()) !='\n') {
         if (isSpaceOrTab(c) && !isSpaceOrTab(previousChar) ) {
 
-            printf("loop");
+
             anzahlWörter++;
         }
         if(isSpaceOrTab(c)){
