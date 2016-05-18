@@ -1,6 +1,5 @@
 /* count.c
-   Autor: Marc Rennhard
-   Datum: 26.2.2004
+   Created by BarthSarafin on 22/02/2016.
 
    Zaehlt die Zeichen und die Woerter einer mit \n abgeschlossenen
    Zeile. Als Wortzwischenraeume zählen Leerzeichen (' ') und

@@ -1,6 +1,5 @@
 /* nextday.c
-   Autor: Marc Rennhard, urspruenglich Peter Frueh
-   Datum: 2.4.2007
+   Created by BarthSarafin on 08/03/2016.
 
    Liest ein Datum ein und gibt - falls das Datum gueltig ist -
    das Datum des folgenden Tages aus.

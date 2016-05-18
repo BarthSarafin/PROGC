@@ -1,6 +1,5 @@
 /* temperatur.c
-   Autor: Marc Rennhard
-   Datum: 26.2.2004
+   Created by BarthSarafin on 22/02/2016.
 
    Berechnet die Temperatur in Celsius fuer Fahrenheit-Werte von
    -100 bis +200 Grad, in 20er Schritten.

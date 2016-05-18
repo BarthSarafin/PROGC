@@ -1,6 +1,5 @@
 /* marks.c
-   Autor: Marc Rennhard
-   Datum: 5.5.2006
+   Created by BarthSarafin on 12/04/2016.
 
    Liest eine Serie von Punktzahlen in einen Array ein und
    liefert - abhaengig von der Punktzahl, die fuer eine
