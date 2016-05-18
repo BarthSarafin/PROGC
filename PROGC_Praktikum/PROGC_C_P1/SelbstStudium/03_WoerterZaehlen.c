@@ -17,8 +17,6 @@ int isSpaceOrTab(int s){
 void countSpace () {
     while ((c = getchar()) !='\n') {
         if (isSpaceOrTab(c) && !isSpaceOrTab(previousChar) ) {
-
-
             anzahlWörter++;
         }
         if(isSpaceOrTab(c)){
